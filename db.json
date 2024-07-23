@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caméra d'action 4K",
+      "email": "contact@gmail.com",
+      "brand": "XYZ Tech",
+      "category": "Electronics",
+      "price": 599.99,
+      "description": "Un smartphone haut de gamme avec caméra 108MP et écran OLED",
+      "imageFilename": "1.jpg",
+      "createdAt": "2024-07-18T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Casque Pro JX",
+      "email": "contact@gmail.com",
+      "brand": "ABC Computers",
+      "category": "Other",
+      "price": "1299.99",
+      "description": "Ordinateur portable puissant pour les professionnels",
+      "imageFilename": "1721403560655_2.png",
+      "createdAt": "2024-07-17"
+    },
+    {
+      "id": 3,
+      "name": "Écouteurs sans fil",
+      "email": "contact@gmail.com",
+      "brand": "AudioHub",
+      "category": "Audio",
+      "price": 149.99,
+      "description": "Écouteurs bluetooth avec réduction de bruit active",
+      "imageFilename": "3.png",
+      "createdAt": "2024-07-16T09:15:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Montre connectée Sport",
+      "email": "contact@gmail.com",
+      "brand": "FitTech",
+      "category": "Wearables",
+      "price": 199.99,
+      "description": "Montre intelligente pour le suivi de vos activités sportives",
+      "imageFilename": "4.png",
+      "createdAt": "2024-07-15T16:20:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Iphone Bleu Color Pro",
+      "email": "contact@gmail.com",
+      "brand": "ArtTech",
+      "category": "Graphics",
+      "price": 349.99,
+      "description": "Tablette graphique professionnelle pour les artistes numériques",
+      "imageFilename": "5.png",
+      "createdAt": "2024-07-14T11:10:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Iphone Vert Color Pro",
+      "email": "contact@gmail.com",
+      "brand": "ActionCam",
+      "category": "Cameras",
+      "price": 299.99,
+      "description": "Caméra d'action robuste pour capturer vos aventures en 4K",
+      "imageFilename": "6.png",
+      "createdAt": "2024-07-13T13:25:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Iphone Red Color Pro",
+      "email": "contact@gmail.com",
+      "brand": "SoundMaster",
+      "category": "Audio",
+      "price": 79.99,
+      "description": "Enceinte portable avec son immersif et batterie longue durée",
+      "imageFilename": "7.png",
+      "createdAt": "2024-07-12T10:05:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Apple Watch Serie 7 ",
+      "email": "contact@gmail.com",
+      "brand": "GameGear",
+      "category": "Gaming",
+      "price": 129.99,
+      "description": "Clavier mécanique RGB pour les gamers exigeants",
+      "imageFilename": "8.png",
+      "createdAt": "2024-07-11T15:40:00Z"
+    }
+  ]
+}
